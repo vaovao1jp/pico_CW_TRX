@@ -1,8 +1,8 @@
-# SDR_pico_CW_RTXv3.22E User Guide
+# SDR_pico_CW_RTXv3.22 User Guide
 
 ## 1. Overview
 
-This document explains how to use **SDR_pico_CW_RTXv3.22E.ino**, a CW SDR transceiver for **Raspberry Pi Pico** developed in **Arduino IDE**.
+This document explains how to use **SDR_pico_CW_RTXv3.22.ino**, a CW SDR transceiver for **Raspberry Pi Pico** developed in **Arduino IDE**.
 
 This program includes the following main features:
 
