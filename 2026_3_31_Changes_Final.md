@@ -11,4 +11,7 @@ However, the C17 value is extremely critical. The rated values of the capacitors
 
 Adjustments are necessary due to variations in the values of the micro-inductors and capacitors!
 
+Testing the Class E Amplifier with a Toroidal Core, Part 2!
+I switched the core to a T37-#6 (yellow). It takes more effort than using a micro-inductor, but this seems to provide better stability. The schematic is in “pico_40mCW_TRXClass E_V2.pdf”
+
 JR3XNW 2026/3/31
