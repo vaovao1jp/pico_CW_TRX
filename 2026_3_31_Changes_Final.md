@@ -4,8 +4,8 @@ Since I got good results, I’m uploading the schematic.
 Please take a look at pico_40mCW_TRX_microL.pdf.
 
 Voltage: 5 V
-Output: 4.5 W
-Efficiency: 80%
+Output: 0.5 W
+Efficiency: 75%
 
 However, the C14 value is extremely critical. The rated values of the capacitors used in the Class E amplifier need to be adjusted to account for the difference between the rated values and the actual measured values.
 
